@@ -65,5 +65,5 @@ This was a two-person group project. I contributed to the exploratory data analy
 ---
 
 ## Files
-- `ML_Project.ipynb` — full notebook with code, analysis, and visualisations
+- `Mortality-predictions-code.ipynb` — full notebook with code, analysis, and visualisations
 - 
